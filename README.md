@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Omkar<br><br>💻 Full-stack developer who loves building clean, fast, and practical applications.<br>🧩 I enjoy working with React, Node.js, MongoDB, Java,Next js and Explore new technologies.<br>⚡ I focus on writing easy-to-understand code, improving performance, and creating real-world solutions.<br><br>🌱 Currently exploring backend architecture, microservices, and AI integrations.<br>🚀 Always learning. Always building. Always improving.
+Hi, I'm Omkar<br><br>💻 Full-stack developer who loves building clean, fast, and practical applications.<br>🧩 I enjoy working with React, Node.js, MongoDB,SQL, Java,Next js and Explore new technologies.<br>⚡ I focus on writing easy-to-understand code, improving performance, and creating real-world solutions.<br><br>🌱 Currently exploring backend architecture, microservices, and AI integrations.<br>🚀 Always learning. Always building. Always improving.
 
 
 ## 🌐 Socials:
