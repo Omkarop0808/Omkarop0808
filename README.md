@@ -1,15 +1,387 @@
-# 💫 About Me:
-Hi, I'm Omkar<br><br>💻 Full-stack developer who loves building clean, fast, and practical applications.<br>🧩 I enjoy working with React, Node.js, MongoDB,SQL, Java,Next js and Explore new technologies.<br>⚡ I focus on writing easy-to-understand code, improving performance, and creating real-world solutions.<br><br>🌱 Currently exploring backend architecture, microservices, and AI integrations.<br>🚀 Always learning. Always building. Always improving.
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Omkar%20Patil&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20AI%20Integration%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+Code+%F0%9F%9A%80;Full+Stack+%7C+Backend+%7C+AI+Integration+%F0%9F%92%A1;Let's+Create+Something+Legendary+%E2%9C%A8" alt="Typing SVG" />
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+</td>
+
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Systems+Engineer;AI+Integration+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+</div>
+
+## 🎯 About Me
+
+```typescript
+const omkar = {
+    pronouns: "He" | "Him",
+    location: "Mumbai, India 🇮🇳",
+    education: "B.Tech Computer Engineering @ Fr. CRCE (CGPA: 8.05)",
+    currentFocus: ["Full Stack Development", "Backend Systems", "AI Integration"],
+    funFact: "I build production-grade apps, win hackathons, and solve DSA problems — all in one day! 🚀",
+
+    code: ["JavaScript", "TypeScript", "Java", "Python", "C", "C++"],
+    technologies: {
+        frontEnd: {
+            frameworks: ["React", "Next.js"],
+            styling: ["Tailwind CSS", "Bootstrap", "shadcn/ui"],
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+        },
+        aiIntegration: ["Gemini AI", "Inngest", "AI Receipt Parsing"],
+        databases: ["PostgreSQL", "MongoDB", "Prisma", "Convex", "Supabase", "SQL"],
+        cloud: ["Vercel", "AWS", "Cloudinary"],
+        tools: ["Git", "GitHub"],
+    },
+    currentlyLearning: ["Scalable Web Architecture", "AI-Powered Systems", "Backend Optimization"],
+    askMeAbout: ["Full Stack Dev", "Backend Systems", "System Design", "DSA"],
+    challenge: "Writing clean, maintainable code that scales in production"
+};
+```
+
+<div align="center">
+
+<br/>
+
+<!-- Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=SNAKE+ATTACK" alt="Title" />
+
+<br/>
+
+<!-- Top Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=4" width="100%"/>
+
+<br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkarop0808/Omkarop0808/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkarop0808/Omkarop0808/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Omkarop0808/Omkarop0808/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br/>
+
+<!-- Bottom Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=4" width="100%"/>
+
+<br/>
+
+<!-- Badges -->
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/MODE-BUILD-00d9ff?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/THREAT-MAX-ff0040?style=for-the-badge&labelColor=000000" />
+
+<br/>
+
+<!-- Bottom Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Auto+Updates+Every+12+Hours" alt="Stats" />
+
+<br/>
+
+</div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/Omkar_0826](https://www.instagram.com/omkar__0826?igsh=MXFlcXpuajh4cWY1dA==)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-patil-1a8818346/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarpatilop0826@gmail.com) 
+## 🌍 **Connect with Me**
+<p>
+  <a href="https://www.linkedin.com/in/omkar-patil-op0826/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  <a href="https://github.com/Omkarop0808">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Omkar_08_OP/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Omkarop0808&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Omkarop0808&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarop0808&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Arsenal
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Universe
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,bootstrap&theme=dark&perline=7" />
+</p>
+
+### 🔮 Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,postgresql,mysql,prisma&theme=dark&perline=7" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Integration & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Convex-EF4444?style=for-the-badge&logo=convex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github&theme=dark&perline=5" />
+</p>
+
+</td>
+</tr>
+</table>
+
+### **Programming Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,c" />
+</p>
+
+### **Tools & Platforms**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux" />
+</p>
+
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💰 Finexa
+**AI-Powered Personal Finance Platform**
+
+`Next.js` `Prisma` `PostgreSQL` `Gemini AI` `Inngest` `Tailwind CSS`
+
+- AI-based receipt parsing & transaction insights
+- Middleware-protected auth & API rate limiting
+- Automated budget alerts & recurring expense logic
+
+[GitHub](https://github.com/Omkarop0808) | [Live Demo](#)
+
+</td>
+<td width="33%" valign="top">
+
+### 💸 Owise
+**Real-Time Expense Sharing App**
+
+`Next.js` `Convex` `Clerk` `Inngest` `Tailwind CSS`
+
+- Real-time expense splitting with event-driven sync
+- Auth-guarded group access & automated summaries
+- Low-latency UI with accurate financial calculations
+
+[GitHub](https://github.com/Omkarop0808) | [Live Demo](#)
+
+</td>
+<td width="33%" valign="top">
+
+### 🌍 StayExplorer
+**Travel Stay Listing Platform**
+
+`Node.js` `Express` `MongoDB` `EJS`
+
+- Full-stack platform with secure CRUD operations
+- MVC architecture & request validation middleware
+- Cloudinary media storage & chatbot integration
+
+[GitHub](https://github.com/Omkarop0808) | [Live Demo](#)
+
+</td>
+</tr>
+</table>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Omkarop0808&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Omkarop0808&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omkarop0808&theme=tokyonight" height="180" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Omkarop0808&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarop0808&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omkarop0808&theme=tokyonight" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Omkarop0808&theme=tokyonight&utcOffset=5.5"/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omkarop0808&theme=tokyonight" />
+
+</div>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Omkarop0808&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+</p>
+
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkarop0808&custom_title=Omkar's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
+
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Learning Path
+```yaml
+Scalable Architecture:
+  - Microservices Design
+  - Event-Driven Systems
+  - Serverless Computing
+
+AI Integration:
+  - RAG Systems & Vector DBs
+  - LLM-Powered Applications
+  - Automated Pipelines
+
+Backend Mastery:
+  - API Design & Rate Limiting
+  - Database Optimization
+  - Real-Time Systems (WebSockets)
+
+Modern Stacks:
+  - T3 Stack (Next.js + tRPC + Prisma)
+  - Edge Computing
+  - Cloud-Native Patterns
+```
+
+</td>
+<td width="50%">
+
+### 💡 Project Goals
+```yaml
+In Progress:
+  - AI-Powered Full Stack Applications
+  - Real-Time Collaboration Tools
+  - Production-Grade Backend Systems
+
+Planning:
+  - Open Source Contributions
+  - Developer Tools & Libraries
+  - Technical Blog & Knowledge Sharing
+
+Goals:
+  - Build Apps That Scale
+  - Contribute to Major OSS Projects
+  - Mentor Aspiring Developers
+```
+
+</td>
+</tr>
+</table>
+
+## 🌟 **Achievements & Community**
+
+### 🏆 **Competitive Highlights**
+- 🥇 **Winner** – Inter-College Robothon (Crescendo)
+- 🎖️ Earned **Google Cloud CI/CD Skill Badge**
+- 🥈 **3x Runner-Up** in Hackathons
+- 🤖 Selected for **AI for Bharat Development Phase (AWS)**
+- 🏅 **Rank 7** in Apertre 3.0 – 30-day competitive open-source program by Resourcio Community
+
+### 🤝 **Collaboration**
+- 💡 Open to collaborating on innovative full-stack & backend projects
+- 🌍 Available for freelance and consulting work
+- 📞 Reach out for technical discussions and partnerships
+
+
+## 🎯 **Fun Facts About Me**
+✅ **Backend systems are my comfort zone** – APIs, databases, architecture — all day long
+✅ Can ship a **Next.js + AI integration** project and optimize its DB schema in the same sitting
+✅ I believe in **reliable software over fancy software** – correctness and clean code first
+
+
+## 📊 **LeetCode Journey**
+
+### 🎯 **LeetCode Stats & Achievements**
+<div align="center">
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Omkar_08_OP/)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-50%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Omkar_08_OP/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1%20Star-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+
+</div>
+
+### 📈 **Coding Stats & Progress**
+<div align="center">
+
+<a href="https://leetcode.com/u/Omkar_08_OP/">
+  <img src="https://leetcard.jacoblin.cool/Omkar_08_OP?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+### 💪 **Coding Consistency**
+<p align="center">
+  <em>"Solving DSA problems daily — covering Arrays, Strings, Trees, Graphs, and DP!"</em><br>
+</p>
+
+---
+
+## 💖 **Show Some Love!**
+
+💖 **Drop a star** ⭐ on my repositories if you like my work! 🚀
+🤝 **Fork** and **contribute** to make them even better!
+📢 **Share** my projects with your network!
+
+Let's build something awesome together. Happy coding! 🎉
+
+
+<div align="center">
+
+**🌟 Made with ❤️ by [Omkar Patil](https://github.com/Omkarop0808) 🌟**
+
+*"Clean code is not written by following a set of rules — it's written with care."* 🎯
+
+</div>
+
+---
+
+### 📈 **Profile Views**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omkarop0808&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views">
+</p>
+
+---
+
+### 🔥 **GitHub Stats Summary**
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/Omkarop0808?logo=github&style=plastic&color=blue&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/Omkarop0808?logo=github&style=plastic&color=yellow&label=STARS)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Omkarop0808&query=$.public_repos&label=REPOSITORIES&style=plastic&color=green&logo=github)
+
+</div>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn" />
+</div>
