@@ -1,8 +1,8 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Omkar%20Patil&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20AI%20Integration%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Omkar%20Patil&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Hackathon%20Winner%20%F0%9F%8F%86%20|%20Full%20Stack%20Dev%20|%20Backend%20Beast%20|%20Shipping%20Real%20Products&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+Code+%F0%9F%9A%80;Full+Stack+%7C+Backend+%7C+AI+Integration+%F0%9F%92%A1;Let's+Create+Something+Legendary+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Omkar+%F0%9F%91%8B;I+Build+Things+That+Actually+Work+%F0%9F%9A%80;Hackathon+Winner+%7C+3x+Runner-Up+%F0%9F%8F%86;Next.js+%7C+PostgreSQL+%7C+AI+Integration+%F0%9F%A4%96;Clean+Code.+Real+Products.+No+Excuses.+%E2%9A%A1" alt="Typing SVG" />
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -19,7 +19,7 @@
 </table>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Systems+Engineer;AI+Integration+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Dev+%F0%9F%92%BB;Backend+Systems+%7C+Real+Products;Ranked+7th+%40+Apertre+3.0+%F0%9F%8F%85;Selected+for+AWS+AI+for+Bharat+%F0%9F%A4%96;Always+Building%2C+Never+Stopping+%E2%9A%A1" alt="Typing Animation" />
 </div>
 
 ## 🎯 About Me
