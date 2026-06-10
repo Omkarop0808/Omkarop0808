@@ -87,11 +87,6 @@ const omkar = {
 
 <br/>
 
-<!-- Bottom Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Auto+Updates+Every+12+Hours" alt="Stats" />
-
-<br/>
-
 </div>
 
 
@@ -178,28 +173,28 @@ const omkar = {
 </td>
 <td width="33%" valign="top">
 
-### 💸 Owise
-**Real-Time Expense Sharing App**
+### 🎓 Sahaya.AI
+**Intelligent Learning & Career Preparation System**
 
-`Next.js` `Convex` `Clerk` `Inngest` `Tailwind CSS`
+`React` `Node.js` `Supabase` `Gemini AI` `Scikit-learn` `Socket.io` `WebRTC`
 
-- Real-time expense splitting with event-driven sync
-- Auth-guarded group access & automated summaries
-- Low-latency UI with accurate financial calculations
+- Predicted study hour allocation with 92% accuracy using a MultiOutput Random Forest model
+- Engineered a real-time lobby using WebRTC/Socket.io with secure Node.js vm code isolation
+- Ingested PDFs/YouTube links to auto-generate learning modules via a Gemini RAG pipeline
 
 [GitHub](https://github.com/Omkarop0808) | [Live Demo](#)
 
 </td>
 <td width="33%" valign="top">
 
-### 🌍 StayExplorer
-**Travel Stay Listing Platform**
+### 💸 FinSage
+**Multi-Agent AI Financial Guidance Platform**
 
-`Node.js` `Express` `MongoDB` `EJS`
+`React` `Node.js` `MongoDB` `Firebase` `Groq (Llama 3.1)` `Twilio API` `Tailwind CSS`
 
-- Full-stack platform with secure CRUD operations
-- MVC architecture & request validation middleware
-- Cloudinary media storage & chatbot integration
+- Built a cooperative Llama 3.1 multi-agent council to synthesize personalized financial strategies
+- Logged transactions in real-time using a Twilio WhatsApp webhook secured by a 5-min TTL OTP
+- Projected 10-year portfolio trajectories via a custom simulation engine and Alpha Vantage API
 
 [GitHub](https://github.com/Omkarop0808) | [Live Demo](#)
 
@@ -298,11 +293,11 @@ Goals:
 ## 🌟 **Achievements & Community**
 
 ### 🏆 **Competitive Highlights**
-- 🥇 **Winner** – Inter-College Robothon (Crescendo)
-- 🎖️ Earned **Google Cloud CI/CD Skill Badge**
-- 🥈 **3x Runner-Up** in Hackathons
-- 🤖 Selected for **AI for Bharat Development Phase (AWS)**
-- 🏅 **Rank 7** in Apertre 3.0 – 30-day competitive open-source program by Resourcio Community
+- 🥇 **Winner** – Inter-College Robothon (Crescendo); earned the Google Cloud CI/CD Skill Badge.
+- 🥈 **3x Runner-Up** in Hackathons.
+- 🤖 Selected for **AI for Bharat Development Phase (AWS)**.
+- 🏅 **Rank 7** in Apertre 3.0 – 30-day competitive open-source program by Resourcio Community.
+- 🧩 Solved **95+ problems** on LeetCode (Contest Rating: **1400+**); practicing regularly on CodeChef (1 Star), covering core DSA topics.
 
 ### 🤝 **Collaboration**
 - 💡 Open to collaborating on innovative full-stack & backend projects
@@ -322,7 +317,8 @@ Goals:
 <div align="center">
 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Omkar_08_OP/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-50%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Omkar_08_OP/)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-95%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Omkar_08_OP/)
+[![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1400%2B-red?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Omkar_08_OP/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1%20Star-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 </div>
